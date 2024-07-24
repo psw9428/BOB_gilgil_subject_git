@@ -4,8 +4,8 @@
 #include <stdlib.h> // for exit
 #include <string.h> // for strcat
 
-#define FILE_OPEN_ERROR_STRING "file open error\n"
+#define FILE_OPEN_ERROR_STRING "file open error"
 #define USAGE_STRING "[*] Usage : add-nbo <filename> <filename>\n"
-#define FILE_IS_NOT_4BYTE "files is not 4byte.\n"
+#define FILE_IS_NOT_4BYTE "files is not 4byte."
 
 
